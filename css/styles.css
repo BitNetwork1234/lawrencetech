@@ -1,0 +1,78 @@
+.column {
+	width: 65%;
+	text-align: center;
+	padding-top: 30px;
+	float: center;
+}
+body {
+	font-family: monospace;
+  background-image: url("\rockstar.jpg");
+}
+.profile {
+	width: 160px;
+	height: 160px;
+	border-radius: 10%;
+	float: center;
+}
+body {
+   background-image: url("/rockstar.jpg");
+   background-color: #cccccc;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.logo {
+	font-weight: bold;
+	margin-left: auto;
+	letter-spacing: 4px;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 15px;
+	line-height: 2em;
+	font-size: 22px;
+	color: #02FF00;
+}
+
+	.copyright {
+		text-align: center;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-color: rgba(0, 0, 0, 0.0);
+  	color: white;
+		text-transform: uppercase;
+		font-weight: lighter;
+		letter-spacing: 2px;
+		border-top-width: 2px;
+	}
+
+.icons {
+	width: 25px;
+	height: 25px;
+	border-radius: 10%;
+}
